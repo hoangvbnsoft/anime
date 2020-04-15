@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Le Do                                
-your_link                                 : http://proxteam.github.io/site                  
+your_link                                 : http://proxteam.github.io/anime                  
 your_city                                 : HaNoi                                
 email_address                             : 
 facebook_username                         :                                           
@@ -36,16 +36,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Discover Popular Movies 
-    description                           : Find Movie Theaters Near You
+  - title                                 : Discover  
+    description                           : Popular, top rated and Upcoming
     fontawesome_icon_name                 : magic
 
-  - title                                 : Make plan
-    description                           : Creat plan with specific detail, and easy to share with friend
+  - title                                 : Search
+    description                           : 1000+ The best Anime movies
     fontawesome_icon_name                 : calendar-check
 
-  - title                                 : Discover Popular Movies 
-    description                           : Easy & All in one place
+  - title                                 : Favorite
+    description                           : Save and manage your favorite list
     fontawesome_icon_name                 : location-arrow
 
   - title                                 : Using 3rd party TMDb service.
@@ -61,7 +61,7 @@ features                                  :
     fontawesome_icon_name                 : address-card
 
   - title                                 : Privacy & Term of service
-    description                           : <a href="https://proxteam.github.io/agreement/term">Privacy</a><br><a href="https://proxteam.github.io/agreement/privacy/">Term of service</a>
+    description                           : <a href="https://proxteam.github.io/agreement/privacy">Privacy</a><br><a href="https://proxteam.github.io/agreement/term">Term of service</a>
     fontawesome_icon_name                 : user-shield
 
 
