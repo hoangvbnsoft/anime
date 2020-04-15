@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Le Do                                
-your_link                                 : http://ProXTeam.github.io/site                  
+your_link                                 : http://proxteam.github.io/site                  
 your_city                                 : HaNoi                                
 email_address                             : 
 facebook_username                         :                                           
@@ -36,9 +36,9 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Map & Directions
+  - title                                 : Discover Popular Movies 
     description                           : Find Movie Theaters Near You
-    fontawesome_icon_name                 : location-arrow
+    fontawesome_icon_name                 : magic
 
   - title                                 : Make plan
     description                           : Creat plan with specific detail, and easy to share with friend
@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Discover Popular Movies 
     description                           : Easy & All in one place
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : location-arrow
 
   - title                                 : Using 3rd party TMDb service.
     description                           : The Movie Database (TMDb) is a community built movie and TV database. Every piece of data has been added by our amazing community dating back to 2008. 
@@ -61,7 +61,7 @@ features                                  :
     fontawesome_icon_name                 : address-card
 
   - title                                 : Privacy & Term of service
-    description                           : <a href="https://ProXTeam.github.io/docs/term">Privacy</a><br><a href="https://ProXTeam.github.io/docs/privacy/">Term of service</a>
+    description                           : <a href="https://proxteam.github.io/agreement/term">Privacy</a><br><a href="https://proxteam.github.io/agreement/privacy/">Term of service</a>
     fontawesome_icon_name                 : user-shield
 
 
